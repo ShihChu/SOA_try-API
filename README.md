@@ -1,6 +1,6 @@
 # API PRACTICE
 
-##Resources
+## Resources
 
 - Projects
 - Contributors
